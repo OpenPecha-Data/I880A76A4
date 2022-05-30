@@ -1,0 +1,109 @@
+id: I880A76A4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:58:50.218664'
+last_modified: '2022-05-30T21:58:50.218674'
+parser: null
+source_metadata:
+  title: Karma Chakme Series
+  language: en
+  description: 'Texts by and about Karma Chakme (karma chags med, 1613–1678), also
+    known as Rāga Asya, a Sanskritized version of his name which he often uses in
+    his writings:'
+  volume:
+    f90F4:
+      title: A Discourse on the Confession of Harmful Deeds Spoken by Yama Dharmarāja
+        to Karma Chakme
+      base_file: f90F4.txt
+      order: 1
+      parent: Confession
+    fD861:
+      title: Brief Confession to the Earth Lords
+      base_file: fD861.txt
+      order: 2
+      parent: Confession
+    f3B70:
+      title: Brief Smoke Offering to the Great Lion of the World
+      base_file: f3B70.txt
+      order: 3
+      parent: Gesar
+    f9D3B:
+      title: 'Zabchema: Profound Cure, The Practice of Bhaiṣajya-Guru, Lord of Physicians'
+      base_file: f9D3B.txt
+      order: 4
+      parent: Healing
+    fFBF9:
+      title: Prayer to Gyaltsen Tsemö Pung Gyen
+      base_file: fFBF9.txt
+      order: 5
+      parent: Lungta
+    f37E8:
+      title: Prayer to the Lion of Speech
+      base_file: f37E8.txt
+      order: 6
+      parent: Mañjuśrī
+    fBABE:
+      title: A Concise Sang Offering to Tārā
+      base_file: fBABE.txt
+      order: 7
+      parent: Offering Rites
+    f4ECB:
+      title: 'Lasel Chenmo: A Sang Offering to the Nāgas'
+      base_file: f4ECB.txt
+      order: 8
+      parent: Offering Rites
+    fB738:
+      title: A Prayer to the Goddess Parṇaśavarī
+      base_file: fB738.txt
+      order: 9
+      parent: Prayers
+    f42A2:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      base_file: f42A2.txt
+      order: 10
+      parent: Prayers
+    f5A48:
+      title: Prayer for the Land of Great Bliss Practice
+      base_file: f5A48.txt
+      order: 11
+      parent: Prayers
+    fFFC8:
+      title: The Concise Mahāmudrā Preliminaries Arranged for Recitation
+      base_file: fFFC8.txt
+      order: 12
+      parent: Preliminary Practices
+    f81C0:
+      title: A Daily Practice of Buddha Akṣobhya
+      base_file: f81C0.txt
+      order: 13
+      parent: Sādhanas
+    fC76E:
+      title: Sādhana of Bhaiṣajya Guru (Medicine Buddha)
+      base_file: fC76E.txt
+      order: 14
+      parent: Sādhanas
+    f7BFB:
+      title: 'The Swift Steed of Garuḍa, King of Birds: An Instruction for Travelling
+        to Sukhāvatī: A Visualization and Recitation of Uṣnīṣa-Sitātapatrā'
+      base_file: f7BFB.txt
+      order: 15
+      parent: Sādhanas
+    f57DC:
+      title: Extensive Instructions on the Transference of Consciousness to the Land
+        of Great Bliss
+      base_file: f57DC.txt
+      order: 16
+      parent: Transference of Consciousness
+    fAF4E:
+      title: Brief Dhāraṇī of Glorious Vajraṇakhī
+      base_file: fAF4E.txt
+      order: 17
+      parent: Vajraṇakhī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
